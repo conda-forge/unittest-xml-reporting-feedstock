@@ -5,7 +5,7 @@ Home: http://github.com/xmlrunner/unittest-xml-reporting/tree/master/
 
 Package license: BSD
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: unittest-based test runner with Ant/JUnit like XML reporting.
 
