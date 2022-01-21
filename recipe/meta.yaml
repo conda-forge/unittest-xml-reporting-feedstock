@@ -1,5 +1,5 @@
 {% set name = "unittest-xml-reporting" %}
-{% set version = "3.0.4" %}
+{% set version = "3.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,11 +7,11 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 984cebba69e889401bfe3adb9088ca376b3a1f923f0590d005126c1bffd1a695
+  sha256: edd8d3170b40c3a81b8cf910f46c6a304ae2847ec01036d02e9c0f9b85762d28
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
