@@ -5,7 +5,7 @@ Home: http://github.com/xmlrunner/unittest-xml-reporting/tree/master/
 
 Package license: BSD
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/unittest-xml-reporting-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/unittest-xml-reporting-feedstock/blob/main/LICENSE.txt)
 
 Summary: unittest-based test runner with Ant/JUnit like XML reporting.
 
@@ -19,8 +19,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9217&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/unittest-xml-reporting-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9217&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/unittest-xml-reporting-feedstock?branchName=main">
       </a>
     </td>
   </tr>
